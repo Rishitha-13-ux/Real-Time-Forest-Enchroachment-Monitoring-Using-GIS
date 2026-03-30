@@ -15,6 +15,7 @@ This project implements a real-time forest fire classification system using CNN 
 ## Files Included
 - fire_classification.ipynb
 - fire_model.h5
+- Final Report(Thesis) - included with results
 ## Trained Model
 
 Due to GitHub file size limits, the trained model is hosted externally.
